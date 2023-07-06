@@ -1,0 +1,8 @@
+certifi==2023.5.7
+charset-normalizer==3.1.0
+forex-python==1.8
+idna==3.4
+Pillow==10.0.0
+requests==2.31.0
+simplejson==3.19.1
+urllib3==2.0.3
